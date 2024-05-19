@@ -60,8 +60,13 @@
       justify-content: space-between;
     }
     .profile_picture{
-      width: 250px;
+      width: 20rem;
+      height: 20rem;
+      transform: scale(0.7);
+      position: relative;
+      left: 5px;
     }
+
     article {
       font-size: 1rem;
     }
